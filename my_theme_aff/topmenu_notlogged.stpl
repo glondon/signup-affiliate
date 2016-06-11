@@ -1,0 +1,19 @@
+<!-- topmenu_notlogged  -->
+<div id="tophmenu"></div>
+<div id="hmenu">
+<ul>
+	<li><a href="http://www.signupandmakemoney.com/site/affiliates/signup.php#SignupForm" title="Join the Signupandmakemoney affiliate program.">Register</a></li>
+	<li><a href="http://www.signupandmakemoney.com/site/affiliates/login.php" title="Log into the Signupandmakemoney affiliate program.">Log in</a></li>
+</ul> 
+</div>
+<div class="navspace" align="center">{literal}<script type="text/javascript"><!--
+google_ad_client = "pub-0372492470050030";
+/* 728x15, for main site created 10/30/09 */
+google_ad_slot = "9481187538";
+google_ad_width = 728;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>{/literal}</div>

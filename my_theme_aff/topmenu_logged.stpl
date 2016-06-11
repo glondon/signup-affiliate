@@ -1,0 +1,24 @@
+<!-- topmenu_logged  -->
+<div id="tophmenu"></div>
+<div id="hmenu">
+			<ul>
+				<li><a href="http://www.signupandmakemoney.com/site/affiliates/panel.php#Home" title="Affiliate Home">Affiliate Home</a></li>
+				<li><a href="http://www.signupandmakemoney.com/site/affiliates/panel.php#My-Profile" title="View or edit your profile.">Profile</a></li>
+				<li><a href="http://www.signupandmakemoney.com/site/affiliates/panel.php#Quick-Stats" title="View your Affiliate Stats">Stats</a></li>
+				<li><a href="http://www.signupandmakemoney.com/site/affiliates/panel.php#Transactions-List" title="View your commissions stats.">Commissions</a></li>
+				<li><a href="http://www.signupandmakemoney.com/site/affiliates/panel.php#Subaffiliates-Tree" title="View subaffiliates and their stats.">Subaffiliates</a></li>
+				<li><a href="http://www.signupandmakemoney.com/site/affiliates/panel.php#Contact-Us" title="Contact your affiliate manager.">Contact</a></li>
+				<li><a href="http://www.signupandmakemoney.com/site/affiliates/logout.php">Logout</a></li>
+			</ul>
+</div>
+<div class="navspace" align="center">{literal}<script type="text/javascript"><!--
+google_ad_client = "pub-0372492470050030";
+/* 728x15, for main site created 10/30/09 */
+google_ad_slot = "9481187538";
+google_ad_width = 728;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>{/literal}</div>

@@ -1,0 +1,50 @@
+<!-- header -->
+{literal}<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=218261441523608";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>{/literal}
+<div id="top">
+<table style="margin: 0 auto;"><tr><td width="630px">
+<div class="navtop">
+  <ul> 
+    <li><a href="http://www.signupandmakemoney.com/">Bonuses</a></li> 
+    <li class="currentp"><a href="http://www.signupandmakemoney.com/site/affiliates/login.php">Affiliates</a></li> 
+    <li><a href="http://www.signupandmakemoney.com/blog/">Blog</a></li>
+    <li><a href="http://www.signupandmakemoney.com/traffic/">Traffic</a></li>
+    <li><a href="http://www.signupandmakemoney.com/affiliate-tips/">Tips</a></li>
+  </ul> </div></td><td width="330px">
+  <div class="search">
+	<form action="http://www.signupandmakemoney.com/google-search/" id="cse-search-box">
+    <input type="hidden" name="cx" value="partner-pub-0372492470050030:5vvp50-qsag" />
+    <input type="hidden" name="cof" value="FORID:10" />
+    <input type="hidden" name="ie" value="ISO-8859-1" />
+    <input type="text" name="q" size="30" />
+    <!-- input type="submit" name="sa" value="Search" / -->
+</form>
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="wrapper">
+<table width="100%" border="0" cellspacing="2" cellpadding="2" summary="table for header">
+  <tr>
+    <td class="header"><a href="http://www.signupandmakemoney.com/" style="background:none;"><img src="http://www.signupandmakemoney.com/Assets/signupandmakemoney-logo-lg.jpg" border="0" alt="Signupandmakemoney Logo" title="Signupandmakemoney." width="300" height="67" /></a></td>
+    <td class="banner_right"><a href="http://www.clixsense.com/?2251204" target="_blank"><img src="http://csstatic.com/banners/clixsense468x60g.png" border="0" /></a></td>
+  </tr>
+</table>
+
+	
+{if $refid eq ''}
+  {include file='topmenu_notlogged.stpl'}
+{else}
+  {include file='topmenu_logged.stpl'}
+{/if}
+ 
+
+

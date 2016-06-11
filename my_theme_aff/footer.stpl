@@ -1,0 +1,92 @@
+<!-- footer -->
+<div class="cleaner"></div>
+</div> <!-- closes the wrapper tag -->
+<div class="cleaner"></div>
+<div id="footer"> 
+<div id="footercontent">
+    <table width="100%" border="0" cellspacing="2" cellpadding="5" summary="Table for footer.">
+  <tr>
+  <td colspan="2"><div align="center">
+{literal}<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://bdv.bidvertiser.com/BidVertiser.dbm?pid=118577&bid=1364207" type="text/javascript"></SCRIPT><noscript><a href="http://www.bidvertiser.com">pay per click</a></noscript>{/literal}
+ <br /><br /><br /></div></td>
+ </tr><tr>
+    <td colspan="2" class="whitespace"><div align="center" style="padding-left:30px;"><br /><a href="http://www.signupandmakemoney.com/blog/feed/" target="_blank" title="Subscribe to the Signupandmakemoney RSS feed!"><img src="http://www.signupandmakemoney.com/Assets/rss-large.jpg" alt="Signupandmakemoney RSS feed." width="100" height="100" border="0" style="padding-right:20px;" /></a><a href="https://www.facebook.com/signupmoney" target="_blank" title="Like us at Facebook!"><img src="http://www.signupandmakemoney.com/Assets/facebook-large.png" alt="Like us on Facebook." width="100" height="100" border="0" style="padding-right:20px;" /></a><a href="http://twitter.com/signupmakemoney" target="_blank" title="Follow us on Twitter!">
+    <img src="http://www.signupandmakemoney.com/Assets/Twitter-large.png" alt="Follow us on Twitter." width="100" height="100" border="0" style="padding-right:20px;" /></a><a href="http://www.signupandmakemoney.com/site/affiliates/signup.php#SignupForm" title="Become a Signupandmakemoney affiliate."><img src="http://www.signupandmakemoney.com/Assets/affiliate-icon.png" alt="Become a Signupandmakemoney affiliate." width="100" height="100" border="0" /></a><br /><br /><br /><div class="fb-like" data-href="http://www.signupandmakemoney.com" data-send="true" data-width="450" data-show-faces="false"></div>
+          <br /><br />
+      <table align="center" cellpadding="8" cellspacing="30" border="0" width="600px"><tr><td><div align="center">   
+    <div class="fb-like-box" data-href="https://www.facebook.com/signupmoney" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div></div></td><td style="padding-left:15px;">{literal}<script type="text/javascript" language="JavaScript" src="http://twittercounter.com/embed/signupmakemoney/ffffff/111111"></script>{/literal}<br /><a href="http://feeds.feedburner.com/signupandmakemoney/haHu" target="_blank"><img src="http://feeds.feedburner.com/~fc/signupandmakemoney/haHu?bg=99CCFF&amp;fg=444444&amp;anim=0" height="26" width="88" style="border:0;" /></a></td></tr><tr><td><br /><div align="center">{literal}<script type="text/javascript">
+					var bottombannerads = new Array()
+
+bottombannerads[0]='<a href="http://hits4pay.com/members/index.cgi?gdc25" target="_blank"><img border="0" src="http://hits4pay.com/imgn/banners/468x60.png" width="468" height="60"></a>'
+bottombannerads[1]='<a href="http://www.inboxdollars.com/?r=ref12218393" target="_blank"><img src="http://www.inboxdollars.com/graphics/creative/banners/468x60/468x60_2.gif" border="0" /></a>'
+bottombannerads[2]='<a href="http://www.sendearnings.com/?r=ref271274" target="_blank"><img src="http://www.sendearnings.com/graphics/creative/banners/468x60/468x60_1.jpg" border="0" /></a>'
+bottombannerads[3]='<a href="http://www.gomezpeerzone.com/application-apply/?Referrer=gdc25" target="_blank"><img src="http://www.gomezpeerzone.com/wp-content/uploads/2011/11/468x60-static.gif" width="468" height="60" border="0"></a>'
+bottombannerads[4]='<a href="http://www.clixsense.com/?2251204" target="_blank"><img src="http://csstatic.com/banners/clixsense468x60g.png" border="0" /></a>'
+bottombannerads[5]='<a href="http://www.uniquerewards.com/cgi-bin/main.cgi?cmd=newref&refid=9440" target="_blank"><img src="http://www.uniquerewards.com/banners/ur_468x60_2.gif" border="0" width="468" height="60" alt="UniqueRewards - online rewards program"></a>'
+
+var bottomchoosead=Math.floor(Math.random()*(bottombannerads.length))
+document.write(bottombannerads[bottomchoosead])					
+					</script>{/literal}</div></td>
+    <td style="padding-left:15px;"><a class="addthis_button" href="http://addthis.com/bookmark.php?v=250&amp;pub=gdc25"><img src="http://s7.addthis.com/static/btn/v2/lg-bookmark-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0; padding-bottom:0px;margin-bottom:0px;"/></a>{literal}<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=gdc25"></script>{/literal}<br /><br /><div id="google_translate_element"></div>{literal}<script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en'
+  }, 'google_translate_element');
+}
+</script><script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>{/literal}</td></tr></table><br />
+    </div></td>
+  </tr>
+  <tr>
+    <td colspan="2"><br /><br /><h3 align="center"><a href="http://www.qualityunit.com/postaffiliatepro/#signupmoney" target="_blank">Affiliate Software by Post Affiliate Pro</a> {$papVersionText}</h3>
+    <br /><br /></td>
+  </tr>
+  <tr>
+    <td width="50%"><div align="center" class="side">
+    <ul>
+    	<li><a href="http://www.signupandmakemoney.com/info/earnings-disclaimer.html">Earnings Disclaimer</a></li>
+        <li><a href="http://www.signupandmakemoney.com/info/privacy-policy.html">Privacy Policy</a></li>
+        <li><a href="http://www.signupandmakemoney.com/info/signupandmakemoney-instructions.html">Instructions</a></li>
+        <li><a href="http://www.signupandmakemoney.com/sitemap.html">Sitemap</a></li>
+   	    <li><a href="http://www.signupandmakemoney.com/contact/">Contact</a></li>
+        <li><a href="http://www.signupandmakemoney.com/info/faq.html">FAQ</a></li>
+    </ul>  
+    </div></td>
+    <td width="50%" rowspan="2"><div align="center"><img src="http://www.signupandmakemoney.com/Assets/signupandmakemoney-logo-lg-transparent.gif" alt="Signupandmakemoney Logo" width="300" height="67" /></div></td>
+  </tr>
+  <tr>
+    <td><div align="center"><br /><br /><p>Copyright &copy; 2008 - {$smarty.now|date_format:"%Y"} Signupandmakemoney, LLC</p></div></td>
+  </tr>
+</table>
+{literal}<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-3173227-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+{/literal}
+
+<!-- ladesk -->
+<div id='laPlaceholder'></div> 
+{literal}<script type="text/javascript"> 
+(function(d,t) { 
+var script = d.createElement(t); script.id = 'la_x2s6df8d'; script.async = true; 
+script.src = '//jazztrumpetlicks.com/liveagent/scripts/track.js'; 
+var image = d.createElement('img'); script.async = true; 
+image.src = '//jazztrumpetlicks.com/liveagent/scripts/pix.gif'; 
+script.onload = script.onreadystatechange = function() { 
+var rs = this.readyState; if (rs && (rs != 'complete') && (rs != 'loaded')) return; 
+LiveAgentTracker.createButton('474cdf4a', this); 
+}; 
+var placeholder = document.getElementById('laPlaceholder'); 
+placeholder.parentNode.insertBefore(script, placeholder); 
+placeholder.parentNode.insertBefore(image, placeholder); 
+placeholder.parentNode.removeChild(placeholder); 
+})(document, 'script'); 
+</script>{/literal}
+<!-- ladesk end -->
+
+</div> <!-- closes the footercontent tag -->
+</div> <!-- closes the footer tag -->

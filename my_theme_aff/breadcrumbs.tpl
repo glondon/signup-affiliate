@@ -1,0 +1,2 @@
+<!-- breadcrumbs -->
+{widget id="Path"}
