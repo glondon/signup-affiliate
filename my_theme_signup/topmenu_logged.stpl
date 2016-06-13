@@ -1,16 +1,49 @@
 <!-- topmenu_logged  -->
 <div id="tophmenu"></div>
 <div id="hmenu">
-			<ul>
-				<li><a href="http://www.signupandmakemoney.com/site/affiliates/panel.php#Home" title="Affiliate Home">Affiliate Home</a></li>
-				<li><a href="http://www.signupandmakemoney.com/site/affiliates/panel.php#My-Profile" title="View or edit your profile.">Profile</a></li>
-				<li><a href="http://www.signupandmakemoney.com/site/affiliates/panel.php#Quick-Stats" title="View your Affiliate Stats">Stats</a></li>
-				<li><a href="http://www.signupandmakemoney.com/site/affiliates/panel.php#Transactions-List" title="View your commissions stats.">Commissions</a></li>
-				<li><a href="http://www.signupandmakemoney.com/site/affiliates/panel.php#Subaffiliates-Tree" title="View subaffiliates and their stats.">Subaffiliates</a></li>
-				<li><a href="http://www.signupandmakemoney.com/site/affiliates/panel.php#Contact-Us" title="Contact your affiliate manager.">Contact</a></li>
-				<li><a href="http://www.signupandmakemoney.com/site/affiliates/logout.php">Logout</a></li>
-			</ul>
+	<ul>
+		<li id="Home"><a href="http://www.signupandmakemoney.com/site/affiliates/panel.php#Home" title="Affiliate Home">Affiliate Home</a></li>
+		<li id="My-Profile"><a href="http://www.signupandmakemoney.com/site/affiliates/panel.php#My-Profile" title="View or edit your profile.">Profile</a></li>
+		<li id="Quick-Stats"><a href="http://www.signupandmakemoney.com/site/affiliates/panel.php#Quick-Stats" title="View your Affiliate Stats">Stats</a></li>
+		<li id="Transactions-List"><a href="http://www.signupandmakemoney.com/site/affiliates/panel.php#Transactions-List" title="View your commissions stats.">Commissions</a></li>
+		<li id="Subaffiliates-Tree"><a href="http://www.signupandmakemoney.com/site/affiliates/panel.php#Subaffiliates-Tree" title="View subaffiliates and their stats.">Subaffiliates</a></li>
+		<li id="Contact-Us"><a href="http://www.signupandmakemoney.com/site/affiliates/panel.php#Contact-Us" title="Contact your affiliate manager.">Contact</a></li>
+		<li><a href="http://www.signupandmakemoney.com/site/affiliates/logout.php">Logout</a></li>
+	</ul>
 </div>
+
+
+{literal}
+<script type="text/javascript">
+	
+	$('#Home').removeClass('subcurrentp');
+	$('#My-Profile').removeClass('subcurrentp');
+	$('#Quick-Stats').removeClass('subcurrentp');
+	$('#Transactions-List').removeClass('subcurrentp');
+	$('#Subaffiliates-Tree').removeClass('subcurrentp');
+	$('#Contact-Us').removeClass('subcurrentp');
+
+	if (window.location.hash == '#Home')
+		$('#Home').addClass('subcurrentp');
+
+	if (window.location.hash == '#My-Profile')
+		$('#My-Profile').addClass('subcurrentp');
+
+	if (window.location.hash == '#Quick-Stats')
+		$('#Quick-Stats').addClass('subcurrentp');
+
+	if (window.location.hash == '#Transactions-List')
+		$('#Transactions-List').addClass('subcurrentp');
+
+	if (window.location.hash == '#Subaffilaites-Tree')
+		$('#Subaffiliates-Tree').addClass('subcurrentp');
+
+	if (window.location.hash == '#Contact-Us')
+		$('#Contact-Us').addClass('subcurrentp');
+
+</script>
+{/literal}
+
 <div class="navspace" align="center">{literal}<script type="text/javascript"><!--
 google_ad_client = "pub-0372492470050030";
 /* 728x15, for main site created 10/30/09 */

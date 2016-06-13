@@ -1,56 +1,116 @@
-/* ******************************************* */
-/* CUSTOM CSS FILE                             */
-/*                                             */
-/* Here you can define your own styles or      */
-/* override styles defined in pap4.css file    */
-/* ******************************************* */
-
-* {padding: 0; margin: 0;}
-body {font-size:62.5%;font-family: 'Lucida Grande', Sans-Serif; color:#555; text-align:left; background:#fff;}
-#wrapper {margin: 0 auto; padding: 0; width: 960px;}
-.header {padding-bottom: 20px; text-align:center; width:35%; padding-top: 20px;}
-.banner_right {text-align:center;}
-#middle {padding-top:20px;padding-bottom: 20px;font-size: 150%;line-height:150%;}
-#footer {font-size: 1.1em;font-style: normal;font-weight: normal;color:#fff; background:#225d73; padding:28px; 
-	     border-top:solid 2px #000099; margin-top:20px; min-width:980px;}
-#footer a {color: #fff; text-decoration: none}
-#footer a:hover {color: #cbe3ec;text-decoration:underline;background:none;}
-#footercontent {margin: 0 auto;width: 960px;}
-.whitespace {background:#ffffff; border:solid 2px #000099;}
-.side {display:block;}
-.side ul {list-style: none;}
-.side ul li {display: inline; padding:8px;}
-
-h2, h3, h4, h5, h6 {font-family: 'Trebuchet MS', 'Lucida Grande', Arial, Sans-Serif;font-weight: bold;text-transform:uppercase;
-						line-height: 1.6em;margin: 0.7em 0 0.7em;}
-h1 { font-size: 1.5em;font-family: 'Trebuchet MS', 'Lucida Grande', Arial, Sans-Serif;font-weight: bold;text-transform:uppercase;
-	 line-height: 1.6em;margin: 0 0 0.7em; }
-h2 { font-size: 1.2em; }
-h3 { font-size: 1.2em; }
-h4 { font-size: 1em; }
-
-#top {background:#80c5df; min-width:980px;}
-.navtop {padding: 25px;}
-.navtop ul {list-style: none;}
-.navtop ul li {display: inline;}
-.navtop ul li a {padding: 8px 10px;color: #fff;font-size: 160%;font-weight: bold;}
-.navtop ul li a:hover {background:none;color: #347a94;}
-.navtop ul li.currentp a {background: #161f23;color: #e8f0f3;-moz-border-radius:8px;-webkit-border-radius:8px;
-						  -opera-border-radius:8px;-khtml-border-radius:8px;border-radius:8px;}
-.search {top: 20px;}
-.search input {height:25px; width:203px;}
-#hmenu {margin:0;padding:5px 0 10px;}
-#hmenu ul {display:inline;margin:0;padding:0;}
-#hmenu ul li {padding:0;display:inline;margin:0 20px 0 0;}
-#hmenu ul li {font-size:1.2em;font-weight:bold;text-transform:uppercase;}	
-#hmenu ul li a {color: #26a;text-decoration: none;}
-#hmenu ul li a:hover {background:#ffc;}
-#tophmenu, #hmenu {background:url('img/border_h.png') repeat-x bottom; padding-top:10px;}
-.navspace {padding-bottom:20px; padding-top:20px;}
-
-
-.Body {min-width:960px;}
-
-.faq-answer {display:none;padding-left:15px;}
-
-
+/* ******************************************* */
+
+/* CUSTOM CSS FILE                             */
+
+/*                                             */
+
+/* Here you can define your own styles or      */
+
+/* override styles defined in pap4.css file    */
+
+/* ******************************************* */
+
+
+
+* {padding: 0; margin: 0;}
+
+body {font-size:62.5%;font-family: 'Lucida Grande', Sans-Serif; color:#555; text-align:left; background:#fff;}
+
+#wrapper {margin: 0 auto; padding: 0; width: 960px;}
+
+.header {padding-bottom: 20px; text-align:center; width:35%; padding-top: 20px;}
+
+.banner_right {text-align:center;}
+
+#middle {padding-top:20px;padding-bottom: 20px;font-size: 150%;line-height:150%;}
+
+#footer {font-size: 1.1em;font-style: normal;font-weight: normal;color:#fff; background:#225d73; padding:28px; 
+
+	     border-top:solid 2px #000099; margin-top:20px; min-width:980px;}
+
+#footer a {color: #fff; text-decoration: none}
+
+#footer a:hover {color: #cbe3ec;text-decoration:underline;background:none;}
+
+#footercontent {margin: 0 auto;width: 960px;}
+
+.whitespace {background:#ffffff; border:solid 2px #000099;}
+
+.side {display:block;}
+
+.side ul {list-style: none;}
+
+.side ul li {display: inline; padding:8px;}
+
+
+
+h2, h3, h4, h5, h6 {font-family: 'Trebuchet MS', 'Lucida Grande', Arial, Sans-Serif;font-weight: bold;text-transform:uppercase;
+
+						line-height: 1.6em;margin: 0.7em 0 0.7em;}
+
+h1 { font-size: 1.5em;font-family: 'Trebuchet MS', 'Lucida Grande', Arial, Sans-Serif;font-weight: bold;text-transform:uppercase;
+
+	 line-height: 1.6em;margin: 0 0 0.7em; }
+
+h2 { font-size: 1.2em; }
+
+h3 { font-size: 1.2em; }
+
+h4 { font-size: 1em; }
+
+
+
+#top {background:#80c5df; min-width:980px;}
+
+.navtop {padding: 25px;}
+
+.navtop ul {list-style: none;}
+
+.navtop ul li {display: inline;}
+
+.navtop ul li a {padding: 8px 10px;color: #fff;font-size: 160%;font-weight: bold;}
+
+.navtop ul li a:hover {background:none;color: #347a94;}
+
+.navtop ul li.currentp a {background: #161f23;color: #e8f0f3;-moz-border-radius:8px;-webkit-border-radius:8px;
+
+						  -opera-border-radius:8px;-khtml-border-radius:8px;border-radius:8px;}
+
+.subcurrentp a {background: #161f23;color: #e8f0f3;-moz-border-radius:8px;-webkit-border-radius:8px;
+
+						  -opera-border-radius:8px;-khtml-border-radius:8px;border-radius:8px;padding:4px;}
+
+.search {top: 20px;}
+
+.search input {height:25px; width:203px;}
+
+#hmenu {margin:0;padding:5px 0 10px;}
+
+#hmenu ul {display:inline;margin:0;padding:0;}
+
+#hmenu ul li {padding:0;display:inline;margin:0 20px 0 0;}
+
+#hmenu ul li {font-size:1.2em;font-weight:bold;text-transform:uppercase;}	
+
+#hmenu ul li a {color: #26a;text-decoration: none;}
+
+#hmenu ul li a:hover {background:#ffc;}
+
+#tophmenu, #hmenu {background:url('img/border_h.png') repeat-x bottom; padding-top:10px;}
+
+.navspace {padding-bottom:20px; padding-top:20px;}
+
+
+
+
+
+.Body {min-width:960px;}
+
+
+
+.faq-answer {display:none;padding-left:15px;}
+
+
+
+
+

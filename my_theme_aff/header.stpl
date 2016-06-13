@@ -1,5 +1,7 @@
 <!-- header -->
-{literal}<div id="fb-root"></div>
+{literal}
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
@@ -12,7 +14,7 @@
 <div class="navtop">
   <ul> 
     <li><a href="http://www.signupandmakemoney.com/">Bonuses</a></li> 
-    <li class="currentp"><a href="http://www.signupandmakemoney.com/site/affiliates/login.php">Affiliates</a></li> 
+    <li class="currentp"><a href="http://www.signupandmakemoney.com/site/affiliates/login.php#login">Affiliates</a></li> 
     <li><a href="http://www.signupandmakemoney.com/blog/">Blog</a></li>
     <li><a href="http://www.signupandmakemoney.com/traffic/">Traffic</a></li>
     <li><a href="http://www.signupandmakemoney.com/affiliate-tips/">Tips</a></li>

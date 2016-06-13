@@ -2,10 +2,26 @@
 <div id="tophmenu"></div>
 <div id="hmenu">
 <ul>
-	<li><a href="http://www.signupandmakemoney.com/site/affiliates/signup.php#SignupForm" title="Join the Signupandmakemoney affiliate program.">Register</a></li>
-	<li><a href="http://www.signupandmakemoney.com/site/affiliates/login.php" title="Log into the Signupandmakemoney affiliate program.">Log in</a></li>
+	<li id="SignupForm"><a href="http://www.signupandmakemoney.com/site/affiliates/signup.php#SignupForm" title="Join the Signupandmakemoney affiliate program.">Register</a></li>
+	<li id="login"><a href="http://www.signupandmakemoney.com/site/affiliates/login.php#login" title="Log into the Signupandmakemoney affiliate program.">Log in</a></li>
 </ul> 
 </div>
+
+{literal}
+<script type="text/javascript">
+	
+	$('#SignupForm').removeClass('subcurrentp');
+	$('#login').removeClass('subcurrentp');
+
+	if (window.location.hash == '#SignupForm')
+		$('#SignupForm').addClass('subcurrentp');
+
+	if (window.location.hash == '#login')
+		$('#login').addClass('subcurrentp');
+
+</script>
+{/literal}
+
 <div class="navspace" align="center">{literal}<script type="text/javascript"><!--
 google_ad_client = "pub-0372492470050030";
 /* 728x15, for main site created 10/30/09 */

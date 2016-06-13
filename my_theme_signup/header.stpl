@@ -31,7 +31,7 @@ $(document).ready(function() {
 <div class="navtop">
   <ul> 
     <li><a href="http://www.signupandmakemoney.com/">Bonuses</a></li> 
-    <li class="currentp"><a href="http://www.signupandmakemoney.com/site/affiliates/login.php">Affiliates</a></li> 
+    <li class="currentp"><a href="http://www.signupandmakemoney.com/site/affiliates/login.php#login">Affiliates</a></li> 
     <li><a href="http://www.signupandmakemoney.com/blog/">Blog</a></li>
     <li><a href="http://www.signupandmakemoney.com/traffic/">Traffic</a></li>
     <li><a href="http://www.signupandmakemoney.com/affiliate-tips/">Tips</a></li>
