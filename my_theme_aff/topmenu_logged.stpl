@@ -16,60 +16,34 @@
 {literal}
 <script type="text/javascript">
 
-	//$('.subcurrentp').attr('id').removeClass('subcurrentp'); // this does not work, but I'm close..
-
 	$('#Home').click(function(){
+		$('#submenu li').removeClass('subcurrentp');
 		$('#Home').addClass('subcurrentp');
-		$('#My-Profile').removeClass('subcurrentp');
-		$('#Quick-Stats').removeClass('subcurrentp');
-		$('#Transactions-List').removeClass('subcurrentp');
-		$('#Subaffiliates-Tree').removeClass('subcurrentp');
-		$('#Contact-Us').removeClass('subcurrentp');
 	});
 
 	$('#My-Profile').click(function(){
+		$('#submenu li').removeClass('subcurrentp');
 		$('#My-Profile').addClass('subcurrentp');
-		$('#Home').removeClass('subcurrentp');
-		$('#Quick-Stats').removeClass('subcurrentp');
-		$('#Transactions-List').removeClass('subcurrentp');
-		$('#Subaffiliates-Tree').removeClass('subcurrentp');
-		$('#Contact-Us').removeClass('subcurrentp');
 	});
 
 	$('#Quick-Stats').click(function(){
+		$('#submenu li').removeClass('subcurrentp');
 		$('#Quick-Stats').addClass('subcurrentp');
-		$('#Home').removeClass('subcurrentp');
-		$('#My-Profile').removeClass('subcurrentp');
-		$('#Transactions-List').removeClass('subcurrentp');
-		$('#Subaffiliates-Tree').removeClass('subcurrentp');
-		$('#Contact-Us').removeClass('subcurrentp');
 	});
 
 	$('#Transactions-List').click(function(){
+		$('#submenu li').removeClass('subcurrentp');
 		$('#Transactions-List').addClass('subcurrentp');
-		$('#Home').removeClass('subcurrentp');
-		$('#My-Profile').removeClass('subcurrentp');
-		$('#Quick-Stats').removeClass('subcurrentp');
-		$('#Subaffiliates-Tree').removeClass('subcurrentp');
-		$('#Contact-Us').removeClass('subcurrentp');
 	});
 
 	$('#Subaffiliates-Tree').click(function(){
+		$('#submenu li').removeClass('subcurrentp');
 		$('#Subaffiliates-Tree').addClass('subcurrentp');
-		$('#Home').removeClass('subcurrentp');
-		$('#My-Profile').removeClass('subcurrentp');
-		$('#Quick-Stats').removeClass('subcurrentp');
-		$('#Transactions-List').removeClass('subcurrentp');
-		$('#Contact-Us').removeClass('subcurrentp');
 	});
 
 	$('#Contact-Us').click(function(){
+		$('#submenu li').removeClass('subcurrentp');
 		$('#Contact-Us').addClass('subcurrentp');
-		$('#Home').removeClass('subcurrentp');
-		$('#My-Profile').removeClass('subcurrentp');
-		$('#Quick-Stats').removeClass('subcurrentp');
-		$('#Transactions-List').removeClass('subcurrentp');
-		$('#Subaffiliates-Tree').removeClass('subcurrentp');
 	});
 
 </script>
