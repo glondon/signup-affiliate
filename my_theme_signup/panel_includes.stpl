@@ -1,0 +1,23 @@
+        <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+        <meta http-Equiv="Cache-Control" Content="no-cache"/>
+        <meta http-Equiv="Pragma" Content="no-cache"/>
+        <meta http-Equiv="Expires" Content="0"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+        <meta name="robots" content="none"/>
+        <meta name="gwt:property" content="panel={$panel}"/>
+        <title>Signupandmakemoney Affiliate Program</title>
+        <meta name="description" content="Register for the Signupandmakemoney Affiliate Program and earn money for referring others." />
+        <link type="image/png" href="http://www.signupandmakemoney.com/Assets/transparent.ico" rel="shortcut icon"/>
+        <link type="image/png" href="http://www.signupandmakemoney.com/Assets/transparent.ico" rel="icon"/>
+        {$cachedData}
+        {if $gwtModuleName}
+        <script type="text/javascript" src="{$gwtModuleName}"></script>
+        {/if}
+        <style type="text/css" media="all">
+            {foreach from=$stylesheets item=stylesheet}
+            @import "{$stylesheet}";
+            {/foreach}
+        </style>
+        {foreach from=$jsResources item=jsResource}
+            <script src="{$jsResource.resource}" type="text/javascript" {if $jsResource.id ne null}id="{$jsResource.id}"{/if}></script>       
+        {/foreach}
